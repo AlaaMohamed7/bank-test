@@ -15,7 +15,7 @@ const Hero = () => {
                 <img src={discount} alt="" className="w-[32px] h-[32px]" />
                 <p className={`${styles.paragraph} font-poppins ml-[10px] sm:text-[18px] xxs:text-[14px]`}>
                     <span className="text-white">20%</span>{' '}
-                    DISCOUNT jjdkd FOR{' '}
+                    DISCOUNT FOR{' '}
                     <span className="text-white">1 MONTH</span>{' '}
                     ACCOUNT
                 </p>
@@ -30,7 +30,7 @@ const Hero = () => {
                 </div>
             </div>
             <h1 className="font-poppins font-semibold md:text-[4.7vw] ss:text-[72px] text-[52px] text-white ss:leading-[100.8px] leading-[75px] w-full">
-               Payment Method.
+               Payment kkkkkk Method.
             </h1>
             <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
               Our team of experts uses a methodology to identify the credit cards
