@@ -30,7 +30,7 @@ const Hero = () => {
                 </div>
             </div>
             <h1 className="font-poppins font-semibold md:text-[4.7vw] ss:text-[72px] text-[52px] text-white ss:leading-[100.8px] leading-[75px] w-full">
-               Payment kkkkkk Method.
+               Payment Method.
             </h1>
             <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
               Our team of experts uses a methodology to identify the credit cards
