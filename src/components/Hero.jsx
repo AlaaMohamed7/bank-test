@@ -15,7 +15,7 @@ const Hero = () => {
                 <img src={discount} alt="" className="w-[32px] h-[32px]" />
                 <p className={`${styles.paragraph} font-poppins ml-[10px] sm:text-[18px] xxs:text-[14px]`}>
                     <span className="text-white">20%</span>{' '}
-                    DISCOUNT hhuuu FOR{' '}
+                    DISCOUNT FOR{' '}
                     <span className="text-white">1 MONTH</span>{' '}
                     ACCOUNT
                 </p>
